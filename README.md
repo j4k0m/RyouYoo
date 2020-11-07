@@ -14,5 +14,5 @@ I love to learn and share what I've learned, and that's what makes me proud of m
     - Python (Flask & Django) ⭐⭐⭐⭐⭐
     - JS (Node.JS & Express.JS) & JQuery ⭐⭐⭐⭐
     - HTML / CSS (Bootstrap 4) ⭐⭐⭐⭐⭐
-    - PHP ⭐⭐⭐⭐⭐
+    - PHP ⭐⭐⭐⭐
     - C ⭐⭐⭐⭐
