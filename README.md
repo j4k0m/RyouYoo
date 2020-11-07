@@ -1,4 +1,4 @@
-# Aymen EL Haski (Jakom)
+# Jakom
 
 > **BACK-END DEVELOPER & PENTESTING TESTER**
 
