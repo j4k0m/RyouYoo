@@ -10,6 +10,8 @@
 
 Will be added soon.
 
+### Some of My writeups & Speedruns:
+- [0xL1ughCTF](https://www.youtube.com/watch?v=GRRJ79ReLgQ&t=52s)
 
 ### My GitHub Stats
 ![alt jakom](https://github-readme-stats.vercel.app/api?username=RyouYoo&show_icons=true&theme=react) ![alt jakom](https://github-readme-stats.vercel.app/api/top-langs/?username=RyouYoo&theme=react&line_height=40)
