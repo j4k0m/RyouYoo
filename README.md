@@ -1,6 +1,12 @@
-# Jakom 🚀
+# Jakom 🚀 (CTF Player & Challenges Maker, member of CRISIS Team and a Back-End Developer)
 
-長生きするヒーロー
+### Challenges I Made:
+
+- [TerCept2](https://github.com/RyouYoo/TerCept2)
+
+### Boxes I Made:
+
+Will be added soon.
 
 
 ### My GitHub Stats
