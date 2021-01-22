@@ -1,4 +1,5 @@
-# Jakom 🚀 (CTF Player & Challenges Maker, member of CRISIS Team and a Back-End Developer)
+# Jakom 🚀
+(CTF Player & Challenges Maker, member of CRISIS Team and a Back-End Developer)
 
 ### Challenges I Made:
 
