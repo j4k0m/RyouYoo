@@ -1,4 +1,29 @@
 # Jakom 🚀
 
-### My GitHub Stats
-![alt jakom](https://github-readme-stats.vercel.app/api?username=RyouYoo&show_icons=true&theme=react) ![alt jakom](https://github-readme-stats.vercel.app/api/top-langs/?username=RyouYoo&theme=react&line_height=40)
+                                                    /)
+                                              o__^^/_/)
+                                               \ ' \`-'     ___
+                                                `|  \______/--'`
+                                                 |         \
+                                               ././-------,.\ BP_mic
+                                   _
+                                (\ \)
+                              o__^\/     ,
+                               \ ' \    <   _  _
+' '  .                          `|  \____\   -   -
+       '      . .      ()        |        )  _   _
+         `.'       `.'         .//---_/-_/ _  _
+
+                        (\
+                       (\_\^^__o   .
+                       `-'\ ` /   `(
+                          |  \_____|
+                          |        |                _
+                        ./`,----./~|     .   .   . - ()
+
+                                                        (\
+                                                       (\_\_^__o
+                                                ___     `-'/ `_/
+                                               '`--\______/  |
+                                          '        /         |
+                                      `    .  '  -`/.------'\^-'
