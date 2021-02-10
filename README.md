@@ -4,4 +4,6 @@
 
 ## Who Am I
 
-I'm Aymen aka Jakom, I live in small city, I do like everything related with Cyber Security and Computers.
+*I'm Aymen aka Jakom, I live in small city.*
+
+*I do like everything related with Cyber Security and Computers.*
