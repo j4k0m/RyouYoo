@@ -1,6 +1,6 @@
 # Jakom 🚀
 
-![alt cover](https://i.imgur.com/kagbniM.png)
+![alt cover](https://i.imgur.com/s5TND2d.png)
 
 ## Who Am I
 
