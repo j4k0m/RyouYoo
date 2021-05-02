@@ -1,4 +1,4 @@
-# Jakom 🚀
+# Aymen EL Haski aka Jakom 🚀
 
 I'm Aymen, Cyber Security Enthusiast, Art Lover and Gamer
 - I play & make CTFs.
