@@ -10,4 +10,4 @@
 ```
 
 
-![ryouyoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryouyoo&theme=dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryouyoo&theme=dark)
+![ryouyoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryouyoo&theme=dark)   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryouyoo&theme=dark)
