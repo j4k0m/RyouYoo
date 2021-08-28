@@ -4,15 +4,6 @@
 <p align="center">Web Penetration Tester - Interested in BlackHat techniques.</p>
 <p align="center">Part of <a href="https://www.facebook.com/Crisi5">Crisi5</a>, <a href="https://bnademoverflow.com/">BnademOverflow</a> and <a href="https://www.facebook.com/Th3HackerNewsBdarija">The Hacker News b'Darija</a>.</p>
 <p align="center">I do some scripting and share what I think is helpful for the community.</p>
-<p align="center">
-  <img src="https://img.icons8.com/color/48/000000/python--v1.png" />
-  <img src="https://img.icons8.com/plasticine/50/000000/bash.png" />
-  <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" />
-  <img src="https://img.icons8.com/fluency/48/000000/php.png"/>
-  <img src="https://img.icons8.com/color/48/000000/golang.png"/>
-  <img src="https://img.icons8.com/color/48/000000/c-programming.png"/>
-</p>
-
 - Web Application Penetration Tester interested in Blackhat techniques.
 - Part of top 3 Moroccan awesome IT communities.
 - Currently studying CVEs and doing code review over open-source projects.
@@ -21,3 +12,11 @@
 - Working as Penetration Tester freelancer at Upwork.
 - Took #1 place in CTF-Time among 33 Moroccan teams.
 - Did bug bounty over the past year, helped to secure over 30+ companies over the world, including (Paypal, Tiktok, Amazon, and Steam).
+<p align="center">
+  <img src="https://img.icons8.com/color/48/000000/python--v1.png" />
+  <img src="https://img.icons8.com/plasticine/50/000000/bash.png" />
+  <img src="https://img.icons8.com/color/48/000000/javascript--v1.png" />
+  <img src="https://img.icons8.com/fluency/48/000000/php.png"/>
+  <img src="https://img.icons8.com/color/48/000000/golang.png"/>
+  <img src="https://img.icons8.com/color/48/000000/c-programming.png"/>
+</p>
