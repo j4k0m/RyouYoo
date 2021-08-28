@@ -6,7 +6,7 @@
 <p align="center">I do some scripting and share what I think is helpful for the community.</p>
 
 - Web Application Penetration Tester interested in Blackhat techniques.
-- Part of top 3 Moroccan awesome IT communities.
+- Part of 3 Moroccan awesome IT communities.
 - Currently studying CVEs and doing code review over open-source projects.
 - Aiming for OSCP.
 - Working as Content Engineer at Cyber Security Moroccan platform (Crisi5) creating and managing hacking educational content, and managing international CTFs.
