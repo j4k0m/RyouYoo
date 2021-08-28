@@ -11,7 +11,6 @@
 - Aiming for OSCP.
 - Working as Content Engineer at Cyber Security Moroccan platform (Crisi5) creating and managing hacking educational content, and managing international CTFs.
 - Working as Penetration Tester freelancer at Upwork.
-- Took #1 place in CTF-Time among 33 Moroccan teams.
 - Did bug bounty over the past year, helped to secure over 30+ companies over the world, including (Paypal, Tiktok, Amazon, and Steam).
 
 <p align="center">
