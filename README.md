@@ -9,7 +9,7 @@
 - Part of 3 Moroccan awesome IT communities.
 - Currently studying CVEs and doing code review over open-source projects.
 - Aiming for OSCP.
-- Working as Content Engineer at Cyber Security Moroccan platform (Crisi5) creating and managing hacking educational content, and managing international CTFs.
+- Working as Content Developer at Cyber Security Moroccan platform (Crisi5) creating and managing hacking educational content, and managing international CTFs.
 - Working as Penetration Tester freelancer at Upwork.
 - Did bug bounty over the past year, helped to secure over 30+ companies over the world, including (Paypal, Tiktok, Amazon, and Steam).
 
