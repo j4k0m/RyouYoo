@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://i.pinimg.com/originals/99/a2/fa/99a2fa44e870f80ff1a889086374d185.gif" />
-</p>
 <p align="center">Web Penetration Tester - Interested in BlackHat techniques.</p>
 <p align="center">Part of <a href="https://www.facebook.com/Crisi5">Crisi5</a>, <a href="https://bnademoverflow.com/">BnademOverflow</a> and <a href="https://www.facebook.com/Th3HackerNewsBdarija">The Hacker News b'Darija</a>.</p>
 <p align="center">I do some scripting and share what I think is helpful for the community.</p>
