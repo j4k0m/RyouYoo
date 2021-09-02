@@ -10,9 +10,7 @@
 - Working as Penetration Tester freelancer at Upwork.
 - Did bug bounty over the past year, helped to secure over 30+ companies over the world, including (Paypal, Tiktok, Amazon, and Steam).
 
-<p align="center">
 [![RyouYoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryouyoo)](https://github.com/anuraghazra/github-readme-stats)
-  </p>
   
 <p align="center">
   <img src="https://img.icons8.com/color/48/000000/python--v1.png" />
