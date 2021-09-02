@@ -11,7 +11,7 @@
 - Did bug bounty over the past year, helped to secure over 30+ companies over the world, including (Paypal, Tiktok, Amazon, and Steam).
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ryouyoo"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryouyoo&layout=compact">
+  <img src="https://github-readme-stats.vercel.app/api?username=ryouyoo"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryouyoo">
 </div>
 
 <p align="center">
