@@ -18,3 +18,7 @@
   <img src="https://img.icons8.com/color/48/000000/golang.png"/>
   <img src="https://img.icons8.com/color/48/000000/c-programming.png"/>
 </p>
+
+<p align="center">
+  <a href="https://medium.com/@J4kom">Blog</a> | Discord: Jakom#0001 | Email: jakom@crisi5.com
+</p>
