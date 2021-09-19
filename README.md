@@ -20,5 +20,5 @@
 </p>
 
 <p align="center">
-  <a href="https://medium.com/@J4kom">Blog</a>  |  <a href="mailto:jakom@crisi5.com">Email</a>
+  <a href="https://j4kom.medium.com/">Blog</a>  |  <a href="mailto:jakom@crisi5.com">Email</a>
 </p>
