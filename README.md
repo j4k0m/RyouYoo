@@ -3,6 +3,7 @@
 <p align="center">I do some scripting and share what I think is helpful for the community.</p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryouyoo&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats) ![RyouYoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryouyoo&theme=dark&show_icons=true)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/821424183073833011)](https://discord.com/users/821424183073833011)
 
 <p align="center">
   <img src="https://img.icons8.com/color/48/000000/python--v1.png" />
