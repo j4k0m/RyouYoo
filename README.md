@@ -1,4 +1,4 @@
-<p align="center">Web Penetration Tester - Interested in BlackHat techniques.</p>
+<p align="center">Penetration Tester - Interested in BlackHat techniques.</p>
 <p align="center">Part of <a href="https://www.facebook.com/Crisi5">Crisi5</a>, <a href="https://bnademoverflow.com/">BnademOverflow</a> and <a href="https://www.facebook.com/Th3HackerNewsBdarija">The Hacker News b'Darija</a>.</p>
 <p align="center">I do some scripting and share what I think is helpful for the community.</p>
 
